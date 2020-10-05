@@ -1,0 +1,2 @@
+include ':app'
+include ':opencv-sdk-4.0.0'

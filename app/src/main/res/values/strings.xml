@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dawcode</string>
+    <string name="transmitter">Transmitter</string>
+    <string name="receiver">Receiver</string>
+    <string name="input_far">Code data far</string>
+    <string name="input_near">Code data near</string>
+    <string name="scan_tips">Click button to decode</string>
+    <string name="input">Input code data</string>
+</resources>
